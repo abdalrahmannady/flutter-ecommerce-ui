@@ -14,9 +14,9 @@ Welcome to my very first step into mobile app development. This is a beautifully
 
 ## 📸 Screenshots
 
-| Home Page | Product Details |
-|---|---|
-| <img src="images/home_ss.png" width="280"> | <img src="images/details_ss.png" width="280"> |
+| Home Page | Product Details | Out of Stock Alert |
+|---|---|---|
+| <img src="images/home_ss.png" width="240"> | <img src="images/details_ss.png" width="240"> | <img src="images/alert_ss.png" width="240"> |
 
 ---
 
