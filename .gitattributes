@@ -1,2 +1,2 @@
-windows/* linguist-documentation
-linux/* linguist-documentation
+echo "windows/* linguist-documentation" > .gitattributes
+echo "linux/* linguist-documentation" >> .gitattributes
