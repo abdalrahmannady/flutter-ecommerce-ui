@@ -1,17 +1,27 @@
-# ui_1_ex
+# 👟 Shoe Store App UI
 
-A new Flutter project.
+A beautifully designed, modern E-commerce Shoe Store Mobile Application UI built using Flutter and Dart. This project focuses on high-quality component design, seamless layout alignment, and interactive state management for product selection.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+* **Modern Home View:** Categorized product browsing with customized product display cards.
+* **Interactive Product Details:** Dynamic product detail page with custom size selectors (`StatefulWidget`).
+* **Clean UI/UX:** Styled shadow elevations, modern typography, and out-of-stock custom dialog popups.
+* **Multi-Platform Support:** Structured and ready for Android, iOS, and desktop applications.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home Page | Product Details |
+|---|---|
+| <img src="images/home_ss.png" width="280"> | <img src="images/details_ss.png" width="280"> |
+
+---
+
+## 🛠️ Technologies & Concepts Used
+* **Framework:** Flutter 🚀
+* **Language:** Dart 🎯
+* **State Management:** `setState` for real-time item property updates.
+* **UI Components:** `GridView.builder`, `ListView.builder`, Custom Dialogs, `InkWell` layout interactions.
