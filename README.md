@@ -1,7 +1,7 @@
 # 👟 Shoe Store App UI
 
-A beautifully designed, modern E-commerce Shoe Store Mobile Application UI built using Flutter and Dart. This project focuses on high-quality component design, seamless layout alignment, and interactive state management for product selection.
-
+### 🎉 My First Flutter Project!
+Welcome to my very first step into mobile app development. This is a beautifully designed, modern E-commerce Shoe Store Mobile Application UI built using Flutter and Dart. This project focuses on high-quality component design, seamless layout alignment, and interactive state management for product selection.
 ---
 
 ## ✨ Features
